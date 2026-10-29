@@ -22,7 +22,6 @@ Este projeto foi criado para praticar os fundamentos da programação em Python 
 - JSON
 - Visual Studio Code
 
-## Como executar
 
 ## Como executar
 
